@@ -1,0 +1,48 @@
+html {
+  text-align: center;
+  background-color: #393E46;
+}
+
+body {
+  margin: 8px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 3rem;
+  border-spacing: 3rem 0;
+}
+
+h1 {
+  display: inline-block;
+  font-family: 'Odibee Sans', cursive;
+  color: aquamarine;
+  font-size: 6rem;
+}
+
+p {
+  font-family: 'Calistoga', cursive;
+  color: white;
+  font-size: 0.8rem;
+}
+
+.redFlag {
+  display: inline-block;
+  height: 4rem;
+}
+
+.playerName {
+  color: aquamarine;
+  font-size: 130%;
+  font-family: 'Oxanium', cursive;
+}
+
+.diceImage {
+  height: 45%;
+}
+
+
+.footerLink {
+  color: white;
+}
